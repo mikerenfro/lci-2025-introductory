@@ -1,0 +1,8 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/yamllint.json": [
+            "file:///Users/renfro/Documents/GitHub/lci-2025-introductory/metadata.yaml",
+            "file:///Users/renfro/Documents/GitHub/lci-2025-introductory/settings.yaml"
+        ]
+    }
+}

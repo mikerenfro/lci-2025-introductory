@@ -1,0 +1,8 @@
+aspectratio: 169
+theme: Cookeville
+section-titles: false
+toc: false
+header-includes: |
+  \definecolor{TTUpurple}{cmyk}{0.79,0.90,0,0}
+  \definecolor{TTUyellow}{cmyk}{0,0.10,1.0,0}
+  \lstset{basicstyle=\ttfamily,backgroundcolor=\color{TTUyellow}}

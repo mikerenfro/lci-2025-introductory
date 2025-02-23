@@ -1,0 +1,7 @@
+from: markdown+yaml_metadata_block+header_attributes+implicit_header_references+multiline_tables
+to: beamer
+toc: true
+slide-level: 3
+template: template.beamer
+listings: true
+metadata-file: metadata.yaml
